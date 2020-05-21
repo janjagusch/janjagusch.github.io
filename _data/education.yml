@@ -1,10 +1,12 @@
 - layout: left
-  name: Harvard University
+  name: New University of Lisbon
   dates: 2010 - 2013
-  qualification: BSc Computer Science
+  qualification: Msc Information Management
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    This program is ranked as the best Master Degree Program in Business Intelligence and Strategy in the World by [Eduniversal](https://www.best-masters.com/ranking-master-business-intelligence-and-strategy.html), international agency that publishes an annual ranking of the best MBA and Master degree programs in the world.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Relevant coursework: Data Mining, Machine Learning, Business Intelligence and Statistics
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Thesis: Neurevolution under Unimodal Fitness Landscapes (published in findings of Genetic and Evolutionary Computation Conference 2018 in Kyoto, Japan)
+
+    Extracurricular: Co-founder of [Nova Analytics Group](https://www.facebook.com/novaanalyticsgroup/)
