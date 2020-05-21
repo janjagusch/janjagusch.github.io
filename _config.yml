@@ -18,8 +18,11 @@ linkedin_username: janjagusch
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  **THIS IS A WIP! INFORMATION MIGHT NOT BE ACCURATE YET!**
   Hi, I am Jan and I want to make a data scientist's life easier!
-  I am currently working as data science teadmlead at [Instaffo](https://instaffo.com/) in Heidelberg, Germany. I am also a [PyData Südwest](https://www.meetup.com/PyData-Suedwest/) organizer.
+
+  I am currently working as data science teamlead at [Instaffo](https://instaffo.com/) in Heidelberg, Germany.
+  I am also a [PyData Südwest](https://www.meetup.com/PyData-Suedwest/) organizer.
 
 # Projects Section
 # projects_title: Projects
