@@ -1,12 +1,22 @@
 - layout: left
   name: New University of Lisbon
-  dates: 2010 - 2013
-  qualification: Msc Information Management
+  dates: 2016 - 2018
+  qualification: MSc Information Management
   quote: >
-    This program is ranked as the best Master Degree Program in Business Intelligence and Strategy in the World by [Eduniversal](https://www.best-masters.com/ranking-master-business-intelligence-and-strategy.html), international agency that publishes an annual ranking of the best MBA and Master degree programs in the world.
+    This program is ranked as the best Master Degree Program in Business Intelligence and Strategy in the World by Eduniversal, international agency that publishes an annual ranking of the best MBA and Master degree programs in the world.
   description: | # this will include new lines to allow paragraphs
     Relevant coursework: Data Mining, Machine Learning, Business Intelligence and Statistics
 
     Thesis: Neurevolution under Unimodal Fitness Landscapes (published in findings of Genetic and Evolutionary Computation Conference 2018 in Kyoto, Japan)
 
     Extracurricular: Co-founder of [Nova Analytics Group](https://www.facebook.com/novaanalyticsgroup/)
+- layout: left
+  name: Baden-Wuerttemberg Cooperative State University
+  dates: 2013 - 2016
+  qualification: BSc International Management for Business and IT
+  description: | # this will include new lines to allow paragraphs
+    Relevant coursework: Programming, Databases, Operations Research and Statistics.
+
+    Thesis: Optimizing Distribution Chains in Outbound Logistics.
+
+    International exchange semester at the University of Tennessee in Knoxville, USA. Provided with scholarship by BW-Stiftung.
