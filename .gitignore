@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+*.code-workspace
